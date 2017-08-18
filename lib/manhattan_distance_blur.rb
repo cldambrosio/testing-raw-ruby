@@ -1,4 +1,4 @@
-class Image
+class ManhattanImage
   attr_accessor :image
 
   def initialize(image)
